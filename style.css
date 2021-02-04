@@ -5,12 +5,20 @@ body {
   line-height: 1;
 }
 
+h1{
+  font-weight: lighter;
+}
+
 .header {
   line-height: 5px;
   text-align: center;
   border-color: Salmon;
   border-width: 1px;
   border-style: solid;
+  border-left-color: snow;
+  border-right-color: snow;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 h6 {
