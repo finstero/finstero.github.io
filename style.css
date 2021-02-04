@@ -1,1 +1,21 @@
 
+body {
+  background-color: snow;
+  font-family: "Gill Sans MT", Arial, sans-serif;
+  margin: 10%;
+  line-height: 1;
+}
+
+.exp-header {
+  line-height: 5px;
+}
+
+h6 {
+  color: Salmon;
+} 
+.first {
+  line-height: .1px;
+}
+.exp{
+  line-height: 20px;
+}
