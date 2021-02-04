@@ -5,13 +5,19 @@ body {
   text-align: center;
 }
 
+.right-content{
+  float: right;
+  width: 60%;
+}
+
 h1{
   font-weight: lighter;
+  font-size: 48px;
 
 }
 
 .header {
-  line-height: 5px;
+  line-height: 10px;
   text-align: center;
   border-color: Salmon;
   border-width: 2px;
@@ -21,19 +27,23 @@ h1{
   margin-right: 5%;
   margin-left: 5%;
   text-transform: uppercase;
+  
 }
 
-.body-content{
-  line-height: ;
+
+h3{
+  font-weight: lighter;
 }
 
 h4{
   text-transform: uppercase;
+
 }
 
-h6 {
-  color: Salmon;
-} 
+h5{
+  font-weight: lighter;
+}
+ 
 .first {
   margin-top: 2em;
   line-height: .1px;
@@ -46,13 +56,35 @@ h6 {
   list-style-position: inside;
 }
 
-.left-content{
-  float: left;
-  width: 35%;
+.pres-pub{
+  text-align: center;
+  list-style-type: none;
 }
 
-.right-content{
-  float: right;
-  width: 65%;
+.left-content{
+  float: left;
+  width: 40%;
 }
+
+.main-header{
+  text-align: center;
+  border-color: Salmon;
+  border-width: 2px;
+  border-style: solid;
+  border-left-color: snow;
+  border-right-color: snow;
+  margin-right: 5%;
+  margin-left: 5%;
+  text-transform: uppercase;
+}
+
+.personal-info {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.leftlist{
+  line-height: 1px;
+}
+
 
